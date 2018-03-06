@@ -1,2 +1,3 @@
 # mocha-first-test
-testing out mocha testing
+
+-installed packages include: mocha, selenium-webdriver, express 
